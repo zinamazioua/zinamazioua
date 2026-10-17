@@ -1,6 +1,6 @@
  <p align="center">
   <a href="https://github.com/zinamazioua">
-    <img width="80%" alt="Hello, I'm Zina. I work with data!" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Hi,%20I'm%20Zina!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+    <img width="80%" alt="Hello, I'm Zina. I work with data!" src="https://capsule-render.vercel.app/api?type=waving&color=F4A7BB&height=180&section=header&text=Hi,%20I'm%20Zina!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
   </a>
 </p>
 
